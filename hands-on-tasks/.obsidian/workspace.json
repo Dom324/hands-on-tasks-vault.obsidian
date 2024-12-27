@@ -127,8 +127,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "46f756096b0c51bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7a11a92953f01270",
@@ -282,10 +293,11 @@
       "graph:Open graph view": true,
       "workspaces:Manage workspace layouts": true,
       "cmdr:Minimal Theme Settings: Switch between light and dark mode": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba5c34aee7ea2a5d",
+  "active": "83bc04dfc77068ba",
   "lastOpenFiles": [
     "Some project notes.md",
     "Sidebar notes/Task-Sidebar.md",
